@@ -9,26 +9,47 @@
 
 <br/>
 
-<a target="_blank"> <img align="right" width="400" alt="memoji" src="https://github.com/angelicaba23/angelicaba23/blob/main/img/memoji.png">
+<a target="_blank"> <img align="right" width="300" alt="memoji" src="https://github.com/angelicaba23/angelicaba23/blob/main/img/memoji.png">
 </a>
 
 <h1 align="left">
   🙆🏻‍♀️ About me
 </h1>
-
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
-- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/JayantGoel001/JayantGoel001/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
-
+Hi! I
+-
+-
+-
+-
+-
 
 <br/>
 
 <h1>
-  🌐 Let's connect
+ 💻 Tech Stack
+</h1>
+
+<br/>
+
+<h1>
+  📊 Github Stats
+</h1>
+
+<!-- Profile View Count and GitStats -->
+
+![](https://komarev.com/ghpvc/?username=angelicaba23&style=plastic)
+[![Github](https://img.shields.io/github/followers/angelicaba23?label=Follow&style=social)](https://github.com/angelicaba23)
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=angelicaba23&theme=react-dark&hide_border=true&area=true&style=plastic)
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaba23&theme=react-dark&hide_border=true&area=true&style=plastic&count_private) | ![Top Langs](https://github-readme-stats.vercel.app/api?username=angelicaba23&show_icons=true&theme=react-dark&hide_border=true&area=true&style=plastic)
+  
+<br/>
+<br/>
+<br/>
+  
+
+<h1>
+  🌐 Let's connect!
 </h1>
 <a href="https://github.com/angelicaba23" target="_blank" >
   <img width="50" alt="github" src="https://github.com/angelicaba23/angelicaba23/blob/main/img/github.png">
