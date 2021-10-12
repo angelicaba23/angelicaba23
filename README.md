@@ -8,10 +8,11 @@
 </h1>
 
 <br/>
-<br/>
 
 <img align="right" width="400" alt="memoji" src="https://github.com/angelicaba23/angelicaba23/blob/main/img/memoji.png">
 </a>
+
+<br/>
 
 <h1>
   Let's connect
