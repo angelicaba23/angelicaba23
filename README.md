@@ -37,3 +37,19 @@
 <a href="https://t.me/angelicaba23" target="_blank" >
   <img width="50" alt="telegram" src="https://github.com/angelicaba23/angelicaba23/blob/main/img/telegram.png">
 </a>
+
+<a href="https://instagram.com/angelicaba23" target="_blank" >
+  <img width="50" alt="instagram" src="https://github.com/angelicaba23/angelicaba23/blob/main/img/instagram.png">
+</a>
+
+<a href="https://www.linkedin.com/in/angelicaba23/" target="_blank" >
+  <img width="50" alt="linkedin" src="https://github.com/angelicaba23/angelicaba23/blob/main/img/linkedin.png">
+</a>
+
+<a href="mailto:angelicaba9923@gmail.com" target="_blank" >
+  <img width="50" alt="gmail" src="https://github.com/angelicaba23/angelicaba23/blob/main/img/gmail.png">
+</a>
+
+<a href="https://discordapp.com/users/691853335816306688" target="_blank" >
+  <img width="50" alt="discord" src="https://github.com/angelicaba23/angelicaba23/blob/main/img/discord.png">
+</a>
