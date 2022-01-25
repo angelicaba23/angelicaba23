@@ -17,7 +17,7 @@
 </h1>
 Hi there! I'm Angelica, I hope you're doing good! Here is some info about me ⤵️
 
-- 👩🏻‍🎓 I'm in 9th semester of electronic engineering.
+- 👩🏻‍🎓 I'm in 10th semester of electronic engineering.
 - 🌱 I'm currently learning about Networks (ccna 1 & ccna 2), web development and Agile Methodology (scrum).
 - 📚 I'm looking to learn about React, NoSQL DB, and TensorFlow.
 - ❤️‍🔥 I'm passionate about technology.
