@@ -3,7 +3,7 @@
   Hello &lt;world/&gt;!
   It's Angélica.
   <a target="_blank">
-    <img src="https://github.com/angelicaba23/angelicaba23/blob/main/img/wave.gif" width="10px" />
+    <img src="https://github.com/angelicaba23/angelicaba23/blob/main/img/wave.gif" height="30" />
   </a>
 </h1>
 
